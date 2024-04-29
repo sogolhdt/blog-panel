@@ -9,10 +9,7 @@
     </head>
 
     <body>
-        <div>
 
-            <button type="button" class="btn btn-success">Success</button>
-        </div>
         <table class="table">
             <thead>
                 <tr>

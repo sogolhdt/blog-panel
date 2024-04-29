@@ -47,7 +47,8 @@
                                 management</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="" style="margin-left: 20px;">blog creation</a>
+                            <a class="nav-link" href="{{ route('blog.create') }}" style="margin-left: 20px;">blog
+                                creation</a>
                         </li>
 
                     </ul>
